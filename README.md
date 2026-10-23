@@ -81,7 +81,7 @@ An interactive dashboard was created using PivotTables, PivotCharts, and Slicers
 
 ## Dashboard Preview
 
-![Laptop Analysis Dashboard](images/Laptop-Dashboard.png)
+![Laptop Analysis Dashboard](Laptop-Dashboard.png)
 ## Charts
 
 - Average Price by Brand
