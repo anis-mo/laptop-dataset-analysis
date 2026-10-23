@@ -132,4 +132,4 @@ This project strengthened my skills in data cleaning, exploratory data analysis,
 
 ## Author
 
-Anis-Mo
+anis-mo
