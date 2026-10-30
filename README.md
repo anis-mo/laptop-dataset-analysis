@@ -24,6 +24,7 @@ The objective of this project is to transform raw laptop specification data into
 
 The dataset contains laptop specifications and prices:
 
+- Unnamed: 0
 - Company
 - TypeName
 - Inches
