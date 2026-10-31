@@ -82,7 +82,7 @@ An interactive dashboard was created using PivotTables, PivotCharts, and Slicers
 
 ## Dashboard Preview
 
-![Laptop Analysis Dashboard](images/Laptop-Dashboard.png)
+![Laptop Analysis Dashboard](Laptop-Dashboard.png)
 
 ## Charts
 
@@ -110,7 +110,7 @@ The slicers allow users to filter the dashboard and explore laptop prices and sp
 - PivotCharts
 - Slicers 
 - Data Cleaning
-- Data Visualisation
+- Data Visualisations
 
 ---
 
@@ -126,7 +126,7 @@ The slicers allow users to filter the dashboard and explore laptop prices and sp
 
 ## ✔️Conclusion 
 
-This project used Microsoft Excel to analyze laptop prices and specifecations. Through data cleaning, PivotTables, PivotChrts, and an interactive dashboard, the analysis explored price differences across companies, laptop types, RAM, capacities, and screen size.
+This project used Microsoft Excel to analyze laptop prices and specifications. Through data cleaning, PivotTables, PivotCharts, and an interactive dashboard, the analysis explored price differences across companies, laptop types, RAM, capacities, and screen size.
 
 The dashboard provides a clear and interactive way to explore the dataset and compare laptop prices across different categories.
 
