@@ -132,6 +132,18 @@ The dashboard provides a clear and interactive way to explore the dataset and co
 
 This project strengthened my skills in data cleaning, exploratory data analysis, data visualization, and dashboard development using Excel.
 
+---
+
+📚 Data Source & License
+
+- Dataset: Laptop Price Dataset
+- Source: Kaggle
+- License: CC0: Public Domain
+
+The dataset is released under the CC0 Public Domain dedication, allowing it to be used, modified, and redistributed without requiring attribution under the license.
+
+Dataset Link: "View Dataset on Kaggle" (https://www.kaggle.com/datasets/mohidabdulrehman/laptop-price-dataset)
+
 ## Author
 
 anis-mo
