@@ -110,7 +110,7 @@ The slicers allow users to filter the dashboard and explore laptop prices and sp
 - PivotCharts
 - Slicers 
 - Data Cleaning
-- Data Visualisations
+- Data Visualisation
 
 ---
 
@@ -134,7 +134,7 @@ This project strengthened my skills in data cleaning, exploratory data analysis,
 
 ---
 
-📚 Data Source & License
+## 📚Data Source & License
 
 - Dataset: Laptop Price Dataset
 - Source: Kaggle
